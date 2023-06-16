@@ -1,1 +1,1 @@
- Square-Star-Pattern-in-Javascript
+ SQUARE-STAR-PATTERN-IN-JAVASCRIPT
